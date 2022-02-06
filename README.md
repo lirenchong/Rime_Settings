@@ -16,6 +16,14 @@ Rime 输入法从简单到复杂的一套自用配置，会去隐私后不定时
 - advance：扩展设置包，有待补完。
 - plug-in：有待补完。
 
+
+
+## Rime 各平台客户端下载：
+\- [RIME | 中州韻輸入法引擎](https://rime.im/) 作者主页
+\- [【鼠鬚管】squirrel](https://github.com/rime/squirrel)：Rime for `MacOS`
+\- [【小狼毫】weasel](https://github.com/rime/weasel)：Rime for `Windows`
+\- [【同文】Trime](https://github.com/osfans/trime)：Rime for `Android`
+
 ## Changlog
 
 - 2022-02-05 Saturday 14:59:29 初始化
