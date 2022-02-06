@@ -1,0 +1,102 @@
+# Rime table
+# coding: utf-8
+#
+# 用於【小鹤双拼】【明月拼音】系列輸入方案
+#
+#【鼠须管】0.15.2 可用
+#【小狼毫】0.14.3 可用 
+#【同文安卓输入法】v3.2.5 可用
+# 
+# 請將該文件以 UTF-8 編碼保存爲
+# Rime 用戶文件夾/custom_phrase.txt
+#
+# ⚠️注意：碼表各字段以製表符（Tab）分隔
+# ⚠️注意：順序爲，文字、编码、权重（決定重碼的次序、可選）
+# ⚠️注意：权重通常可设定数字 9-1，其中 9 排在第一候选，8 排在第二候选，依此类推。
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
+# no comment
+
+
+
+# 以下为基于双拼的自定义短语示例。请根据自己的个性化需求，自行修订。
+
+
+# a
+# — — — — — — — — —
+
+啊	a	9
+阿	a	8
+A：	a	7
+ Apple 	a	6
+安得猛士兮守四方！	a
+A/B 测试	ab	2
+- [ ] `Action`	ac	2
+`Action`	ac	3
+Action：	ac	4
+AC 德科 ACDelco	acd	2
+ Air 	air	9
+ Airpods 	air	8
+ Airpods Pro 	air	7
+ Macbook Air 	air	6
+Apple	apple	9
+https://www.apple.com.cn/	apple	8
+ Apple ID 	appleid
+A-roll	ar	2
+ Android 	and	9
+
+
+
+
+
+# b
+# — — — — — — — — —
+
+吧	b	9
+ B 站	b	8
+北国风光，千里冰封，万里雪飘。	b	6
+B-Roll	b	3
+把	ba	8
+吧	ba	9
+ Bilibili 	bb	9
+哔哩哔哩	bb	8
+不错～不错～	bc	2
+B 站	bivj	2
+笔记	biji	9
+博士	boui	9
+🎓	boui	7
+抱拳	bcqr	9
+[抱拳]	bcqr	2
+B-Roll 镜头	br	2
+不错～不错～	buc	3
+♈	by	2
+
+# c
+# — — — — — — — — —
+
+从	c	9
+祠祭大泽，候忽南临。洛滨醊祷，色连三光。	c
+⇪	capslock	2
+Created in China	c3	2
+CorelDraw	cdr	2
+Changelog：	chg	9
+Changelog	cl	8
+Changelog：	cl	9
+⌘	com	2
+⌘+	com	3
+⌘	command	2
+⌘+	command	3
+⌃å	con	2
+⌃+	con	3
+⌃	control	2
+⌃+	control	3
+copyright: false	copy	2
+Ctrl+	ct	2
+擦汗	cahj	9
+[擦汗]	cahj	3
+呲牙	cy	9
+[呲牙]	cy	8
+这句是凑字数用的～你懂的～	czs	2
+
+
